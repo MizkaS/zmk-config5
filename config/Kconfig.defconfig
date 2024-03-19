@@ -1,6 +1,0 @@
-if SHIELD_MSK46
-
-config ZMK_KEYBOARD_NAME
-    default "MSK46"
-
-endif
