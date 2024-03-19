@@ -31,7 +31,7 @@
         
         media_layer {
             bindings = <
-                &kp GRAVE   &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &kp UP      &DEL
+                &kp GRAVE   &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &kp UP      &kp DEL
                 &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &kp LEFT    &kp DOWN    &kp RIGHT
                 &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &kp C_PREV  &kp C_PLAY  &kp C_NEXT  &kp LBKT
                 &trans      &trans      &trans      &trans                  &trans                  &trans      &trans      &trans      &trans      &trans
