@@ -40,7 +40,7 @@
 
         numerot_layer {
             bindings = <
-                &trans      &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp KP_N4   &kp KP_N5   &kp_N6       &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp KP_N0   &kp EQUAL
+                &trans      &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp KP_N4   &kp KP_N5   &kp KP_N6       &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp KP_N0   &kp EQUAL
                 &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &kp RBKT
                 &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &trans      &kp BSLH
                 &trans      &trans      &trans      &trans                  &trans                  &trans      &trans      &trans      &trans      &trans
